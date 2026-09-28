@@ -1,4 +1,6 @@
-# MacOS metadata. 
+.env
+
+# MacOS metadata.
 .DS_Store
 
 # Pycharm metadata.
