@@ -25,3 +25,6 @@ __pycache__/
 
 # Test cache
 .pytest_cache
+
+# Local simulation results.
+/outputs/

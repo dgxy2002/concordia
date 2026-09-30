@@ -15,7 +15,7 @@
 """Base class for GPT models (OpenAI and Azure)."""
 
 from collections.abc import Collection, Sequence
-from typing import override
+from typing import Any, override
 
 from concordia.language_model import language_model
 from concordia.utils import measurements as measurements_lib
@@ -91,16 +91,22 @@ class BaseGPTModel(language_model.LanguageModel):
     ]
 
     # pyrefly: ignore [no-matching-overload]
-    response = self._client.chat.completions.create(
-        model=self._model_name,
-        messages=messages,
-        temperature=temperature,
-        max_completion_tokens=max_tokens,
-        timeout=timeout,
-        seed=seed,
-        reasoning_effort=reasoning_effort,
-        verbosity=verbosity,
-    )
+    request: dict[str, Any] = {
+        'model': self._model_name,
+        'messages': messages,
+        'temperature': temperature,
+        'max_completion_tokens': max_tokens,
+        'timeout': timeout,
+        'seed': seed,
+    }
+    # GPT-4o is a non-reasoning model. Its Chat Completions endpoint rejects
+    # reasoning_effort (and older snapshots also reject verbosity) with HTTP
+    # 400, so only send these controls to models that support them.
+    if 'gpt-4o' not in self._model_name.lower():
+      request['reasoning_effort'] = reasoning_effort
+      request['verbosity'] = verbosity
+
+    response = self._client.chat.completions.create(**request)
 
     if self._measurements is not None:
       self._measurements.publish_datum(
