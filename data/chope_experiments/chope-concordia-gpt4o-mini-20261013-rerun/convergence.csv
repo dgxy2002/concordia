@@ -1,0 +1,3 @@
+checkpoint_n,outcome_tvd,largest_binary_rate_change,largest_continuous_smd,centroid_cosine_distance,criteria_pass,declared_converged
+10,,,,,False,False
+15,0.16666666666666666,0.16666666666666669,0.3246831351032592,0.0021591117329049503,False,False

@@ -1,0 +1,91 @@
+{"run_id": "openai--gpt-4o-mini-001", "event": "deterministic_practical_resolution", "round": 3, "turn": 10, "kind": "rachel_returns_seat", "evidence": "I understand, Mr Lim. I’ll find another table so you can have your seat."}
+{"run_id": "openai--gpt-4o-mini-001", "event": "topic_drift_onset", "round": 4}
+{"run_id": "openai--gpt-4o-mini-001", "event": "first_boundary", "round": 4}
+{"run_id": "openai--gpt-4o-mini-001", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-001", "event": "malformed_action_normalized_without_regeneration", "round": 7, "turn": 25, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-001", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 29, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-002", "event": "resolution_source_disagreement", "deterministic": false, "evaluator": true}
+{"run_id": "openai--gpt-4o-mini-002", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-002", "event": "malformed_action_normalized_without_regeneration", "round": 2, "turn": 8, "agent": "Arjun"}
+{"run_id": "openai--gpt-4o-mini-002", "event": "malformed_action_normalized_without_regeneration", "round": 3, "turn": 11, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-002", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 24, "agent": "Arjun"}
+{"run_id": "openai--gpt-4o-mini-002", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 31, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-003", "event": "resolution_source_disagreement", "deterministic": false, "evaluator": true}
+{"run_id": "openai--gpt-4o-mini-003", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-003", "event": "malformed_action_normalized_without_regeneration", "round": 4, "turn": 15, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-003", "event": "malformed_action_normalized_without_regeneration", "round": 4, "turn": 16, "agent": "Arjun"}
+{"run_id": "openai--gpt-4o-mini-003", "event": "malformed_action_normalized_without_regeneration", "round": 5, "turn": 19, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-003", "event": "malformed_action_normalized_without_regeneration", "round": 5, "turn": 20, "agent": "Arjun"}
+{"run_id": "openai--gpt-4o-mini-003", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 23, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-003", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 24, "agent": "Arjun"}
+{"run_id": "openai--gpt-4o-mini-003", "event": "malformed_action_normalized_without_regeneration", "round": 7, "turn": 28, "agent": "Arjun"}
+{"run_id": "openai--gpt-4o-mini-003", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 31, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-003", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 32, "agent": "Arjun"}
+{"run_id": "openai--gpt-4o-mini-004", "event": "deterministic_practical_resolution", "round": 3, "turn": 9, "kind": "mutual_share", "evidence": "I no want to share table, I reserve this seat already. Can you understand or not?"}
+{"run_id": "openai--gpt-4o-mini-004", "event": "repetition_onset", "round": 4}
+{"run_id": "openai--gpt-4o-mini-004", "event": "convergence_after_resolution", "round": 4}
+{"run_id": "openai--gpt-4o-mini-004", "event": "first_boundary", "round": 4}
+{"run_id": "openai--gpt-4o-mini-004", "event": "resolution_source_disagreement", "deterministic": true, "evaluator": false}
+{"run_id": "openai--gpt-4o-mini-004", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "deterministic_practical_resolution", "round": 2, "turn": 6, "kind": "rachel_returns_seat", "evidence": "I understand, Mr Lim. I'll move to another table then."}
+{"run_id": "openai--gpt-4o-mini-005", "event": "topic_drift_onset", "round": 3}
+{"run_id": "openai--gpt-4o-mini-005", "event": "first_boundary", "round": 3}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 21, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 22, "agent": "Rachel Pereira"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 23, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 24, "agent": "Arjun"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 7, "turn": 25, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 7, "turn": 26, "agent": "Rachel Pereira"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 7, "turn": 27, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 7, "turn": 28, "agent": "Arjun"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 29, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 30, "agent": "Rachel Pereira"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 31, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 32, "agent": "Arjun"}
+{"run_id": "openai--gpt-4o-mini-006", "event": "resolution_source_disagreement", "deterministic": false, "evaluator": true}
+{"run_id": "openai--gpt-4o-mini-006", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-006", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 21, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-006", "event": "malformed_action_normalized_without_regeneration", "round": 7, "turn": 25, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-006", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 29, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-007", "event": "deterministic_practical_resolution", "round": 4, "turn": 14, "kind": "rachel_returns_seat", "evidence": "I will move to free up the seat for Mr Lim."}
+{"run_id": "openai--gpt-4o-mini-007", "event": "topic_drift_onset", "round": 5}
+{"run_id": "openai--gpt-4o-mini-007", "event": "first_boundary", "round": 5}
+{"run_id": "openai--gpt-4o-mini-007", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-008", "event": "deterministic_practical_resolution", "round": 3, "turn": 10, "kind": "mutual_share", "evidence": "Mr Lim, I'm happy to shift if there's space, but I'd prefer if we can figure out a way to share the table."}
+{"run_id": "openai--gpt-4o-mini-008", "event": "repetition_onset", "round": 3}
+{"run_id": "openai--gpt-4o-mini-008", "event": "convergence_after_resolution", "round": 4}
+{"run_id": "openai--gpt-4o-mini-008", "event": "first_boundary", "round": 4}
+{"run_id": "openai--gpt-4o-mini-008", "event": "resolution_source_disagreement", "deterministic": true, "evaluator": false}
+{"run_id": "openai--gpt-4o-mini-008", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-009", "event": "repetition_onset", "round": 3}
+{"run_id": "openai--gpt-4o-mini-009", "event": "resolution_source_disagreement", "deterministic": false, "evaluator": true}
+{"run_id": "openai--gpt-4o-mini-009", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-010", "event": "repetition_onset", "round": 7}
+{"run_id": "openai--gpt-4o-mini-010", "event": "resolution_source_disagreement", "deterministic": false, "evaluator": true}
+{"run_id": "openai--gpt-4o-mini-010", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-010", "event": "malformed_action_normalized_without_regeneration", "round": 4, "turn": 15, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-010", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 23, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-010", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 32, "agent": "Arjun"}
+{"run_id": "openai--gpt-4o-mini-011", "event": "resolution_source_disagreement", "deterministic": false, "evaluator": true}
+{"run_id": "openai--gpt-4o-mini-011", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-011", "event": "malformed_action_normalized_without_regeneration", "round": 7, "turn": 25, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-012", "event": "resolution_source_disagreement", "deterministic": false, "evaluator": true}
+{"run_id": "openai--gpt-4o-mini-012", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-012", "event": "malformed_action_normalized_without_regeneration", "round": 4, "turn": 13, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-012", "event": "malformed_action_normalized_without_regeneration", "round": 5, "turn": 17, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-012", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 21, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-012", "event": "malformed_action_normalized_without_regeneration", "round": 7, "turn": 25, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-012", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 29, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-013", "event": "resolution_source_disagreement", "deterministic": false, "evaluator": true}
+{"run_id": "openai--gpt-4o-mini-013", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-013", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 22, "agent": "Rachel Pereira"}
+{"run_id": "openai--gpt-4o-mini-013", "event": "malformed_action_normalized_without_regeneration", "round": 6, "turn": 23, "agent": "Nur Aisyah"}
+{"run_id": "openai--gpt-4o-mini-013", "event": "malformed_action_normalized_without_regeneration", "round": 7, "turn": 25, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-013", "event": "malformed_action_normalized_without_regeneration", "round": 7, "turn": 26, "agent": "Rachel Pereira"}
+{"run_id": "openai--gpt-4o-mini-014", "event": "repetition_onset", "round": 7}
+{"run_id": "openai--gpt-4o-mini-014", "event": "resolution_source_disagreement", "deterministic": false, "evaluator": true}
+{"run_id": "openai--gpt-4o-mini-014", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-014", "event": "malformed_action_normalized_without_regeneration", "round": 8, "turn": 29, "agent": "Mr Lim"}
+{"run_id": "openai--gpt-4o-mini-015", "event": "repetition_onset", "round": 3}
+{"run_id": "openai--gpt-4o-mini-015", "event": "malformed_action_normalized_without_regeneration", "round": 1, "turn": 1, "agent": "Mr Lim"}

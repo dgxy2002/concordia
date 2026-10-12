@@ -1,0 +1,201 @@
+{
+  "completed_runs": 15,
+  "deterministic_resolution": {
+    "count": 5,
+    "total": 15,
+    "rate": 0.3333333333333333
+  },
+  "evaluator_resolution": {
+    "count": 12,
+    "total": 15,
+    "rate": 0.8
+  },
+  "deterministic_outcomes": {
+    "compromise": 5,
+    "unresolved": 10
+  },
+  "evaluator_outcomes": {
+    "compromise": 11,
+    "unresolved": 3,
+    "consensus": 1
+  },
+  "conflict": {
+    "count": 15,
+    "total": 15,
+    "rate": 1.0
+  },
+  "norm_recognition": {
+    "count": 15,
+    "total": 15,
+    "rate": 1.0
+  },
+  "rachel_norm_acknowledgment": {
+    "count": 13,
+    "total": 15,
+    "rate": 0.8666666666666667
+  },
+  "mediation": {
+    "count": 15,
+    "total": 15,
+    "rate": 1.0
+  },
+  "immediate_capitulation": {
+    "count": 1,
+    "total": 15,
+    "rate": 0.06666666666666667
+  },
+  "premature_yield": {
+    "count": 0,
+    "total": 15,
+    "rate": 0.0
+  },
+  "age_deference": {
+    "count": 0,
+    "total": 15,
+    "rate": 0.0
+  },
+  "mean_persona_adherence": 8.716666666666667,
+  "mean_perspective_diversity": 3.933333333333333,
+  "repetition": {
+    "count": 6,
+    "total": 15,
+    "rate": 0.4
+  },
+  "median_repetition_onset": 3.5,
+  "topic_drift": {
+    "count": 3,
+    "total": 15,
+    "rate": 0.2
+  },
+  "median_topic_drift_onset": 4.0,
+  "convergence_after_resolution": {
+    "count": 2,
+    "total": 15,
+    "rate": 0.13333333333333333
+  },
+  "median_convergence_round": 4.0,
+  "first_boundary": {
+    "count": 5,
+    "total": 15,
+    "rate": 0.3333333333333333
+  },
+  "median_first_boundary_round": 4.0,
+  "resolution_source_disagreements": 11,
+  "resources": {
+    "simulation": {
+      "requests": 480,
+      "failed_calls": 0,
+      "truncated_calls": 0,
+      "input_tokens": 544420,
+      "output_tokens": 15005,
+      "reasoning_tokens": 0,
+      "total_tokens": 559425,
+      "cost_usd": 0.077994,
+      "exact_cost_complete": true,
+      "latency_ms": 653629.375,
+      "providers": {
+        "Azure": 125,
+        "OpenAI": 355
+      },
+      "error_types": {}
+    },
+    "evaluation": {
+      "requests": 15,
+      "failed_calls": 0,
+      "truncated_calls": 0,
+      "input_tokens": 33949,
+      "output_tokens": 40201,
+      "reasoning_tokens": 30592,
+      "total_tokens": 74150,
+      "cost_usd": 0.08888925,
+      "exact_cost_complete": true,
+      "latency_ms": 319407.297,
+      "providers": {
+        "OpenAI": 15
+      },
+      "error_types": {}
+    },
+    "embedding": {
+      "requests": 135,
+      "failed_calls": 0,
+      "truncated_calls": 0,
+      "input_tokens": 20242,
+      "output_tokens": null,
+      "reasoning_tokens": null,
+      "total_tokens": 20242,
+      "cost_usd": 0.00040484,
+      "exact_cost_complete": true,
+      "latency_ms": 143258.664,
+      "providers": {
+        "OpenAI": 135
+      },
+      "error_types": {}
+    },
+    "total": {
+      "requests": 630,
+      "failed_calls": 0,
+      "truncated_calls": 0,
+      "input_tokens": 598611,
+      "output_tokens": 55206,
+      "reasoning_tokens": 30592,
+      "total_tokens": 653817,
+      "cost_usd": 0.16728809,
+      "exact_cost_complete": true,
+      "latency_ms": 1116295.336,
+      "providers": {
+        "Azure": 125,
+        "OpenAI": 505
+      },
+      "error_types": {}
+    }
+  },
+  "failed_calls": 0,
+  "runs_containing_failed_call": 0,
+  "mean_wall_time_ms": 75955.44526666666,
+  "experiment_id": "chope-concordia-gpt4o-mini-20261013-rerun",
+  "framework": "Concordia",
+  "framework_version": "2.4.0",
+  "attempted_runs": 15,
+  "failed_runs": 0,
+  "cohort_convergence": [
+    {
+      "checkpoint_n": 10,
+      "outcome_tvd": null,
+      "largest_binary_rate_change": null,
+      "largest_continuous_smd": null,
+      "centroid_cosine_distance": null,
+      "criteria_pass": false,
+      "declared_converged": false
+    },
+    {
+      "checkpoint_n": 15,
+      "outcome_tvd": 0.16666666666666666,
+      "largest_binary_rate_change": 0.16666666666666669,
+      "largest_continuous_smd": 0.3246831351032592,
+      "centroid_cosine_distance": 0.0021591117329049503,
+      "criteria_pass": false,
+      "declared_converged": false
+    }
+  ],
+  "resource_efficiency": {
+    "mean_total_tokens_per_completed_run": 43587.8,
+    "mean_simulation_tokens_per_round": 4661.875,
+    "cost_per_completed_run_usd": 0.011152539333333333,
+    "cost_per_resolved_run_usd": 0.033457618,
+    "failed_run_known_cost_usd": 0,
+    "failed_run_cost_exact_complete": false
+  },
+  "boundary_resources": {
+    "simulation_tokens": 559425,
+    "simulation_cost_usd": 0.07799400000000006,
+    "post_first_boundary_tokens": 113743,
+    "post_first_boundary_token_share": 0.2033212673727488,
+    "post_first_boundary_cost_usd": 0.0134529,
+    "post_first_boundary_cost_share": 0.17248634510346936,
+    "post_convergence_tokens": 49297,
+    "post_convergence_token_share": 0.08812083836081691,
+    "post_convergence_cost_usd": 0.005812950000000001,
+    "post_convergence_cost_share": 0.0745307331333179,
+    "exact_cost_complete": true
+  }
+}

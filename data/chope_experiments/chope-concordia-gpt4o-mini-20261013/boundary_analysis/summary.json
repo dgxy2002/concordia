@@ -1,0 +1,38 @@
+{
+  "experiment_id": "chope-concordia-gpt4o-mini-20261013",
+  "completed_runs": 0,
+  "repetition": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "topic_drift": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "convergence_after_resolution": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "first_boundary": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "boundary_resources": {
+    "simulation_tokens": 0,
+    "simulation_cost_usd": 0.0,
+    "post_first_boundary_tokens": 0,
+    "post_first_boundary_token_share": null,
+    "post_first_boundary_cost_usd": 0.0,
+    "post_first_boundary_cost_share": null,
+    "post_convergence_tokens": 0,
+    "post_convergence_token_share": null,
+    "post_convergence_cost_usd": 0.0,
+    "post_convergence_cost_share": null,
+    "exact_cost_complete": true
+  },
+  "chart_clarification": "Convergence means post-resolution saturation under the predeclared repetition rule; manual audit is still required."
+}

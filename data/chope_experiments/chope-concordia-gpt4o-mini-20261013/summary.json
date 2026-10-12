@@ -1,0 +1,169 @@
+{
+  "completed_runs": 0,
+  "deterministic_resolution": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "evaluator_resolution": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "deterministic_outcomes": {},
+  "evaluator_outcomes": {},
+  "conflict": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "norm_recognition": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "rachel_norm_acknowledgment": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "mediation": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "immediate_capitulation": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "premature_yield": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "age_deference": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "mean_persona_adherence": null,
+  "mean_perspective_diversity": null,
+  "repetition": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "median_repetition_onset": null,
+  "topic_drift": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "median_topic_drift_onset": null,
+  "convergence_after_resolution": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "median_convergence_round": null,
+  "first_boundary": {
+    "count": 0,
+    "total": 0,
+    "rate": null
+  },
+  "median_first_boundary_round": null,
+  "resolution_source_disagreements": 0,
+  "resources": {
+    "simulation": {
+      "requests": 45,
+      "failed_calls": 45,
+      "truncated_calls": 0,
+      "input_tokens": null,
+      "output_tokens": null,
+      "reasoning_tokens": null,
+      "total_tokens": null,
+      "cost_usd": null,
+      "exact_cost_complete": false,
+      "latency_ms": 92576.212,
+      "providers": {},
+      "error_types": {
+        "APIConnectionError": 45
+      }
+    },
+    "evaluation": {
+      "requests": 0,
+      "failed_calls": 0,
+      "truncated_calls": 0,
+      "input_tokens": null,
+      "output_tokens": null,
+      "reasoning_tokens": null,
+      "total_tokens": null,
+      "cost_usd": null,
+      "exact_cost_complete": false,
+      "latency_ms": null,
+      "providers": {},
+      "error_types": {}
+    },
+    "embedding": {
+      "requests": 0,
+      "failed_calls": 0,
+      "truncated_calls": 0,
+      "input_tokens": null,
+      "output_tokens": null,
+      "reasoning_tokens": null,
+      "total_tokens": null,
+      "cost_usd": null,
+      "exact_cost_complete": false,
+      "latency_ms": null,
+      "providers": {},
+      "error_types": {}
+    },
+    "total": {
+      "requests": 45,
+      "failed_calls": 45,
+      "truncated_calls": 0,
+      "input_tokens": null,
+      "output_tokens": null,
+      "reasoning_tokens": null,
+      "total_tokens": null,
+      "cost_usd": null,
+      "exact_cost_complete": false,
+      "latency_ms": 92576.212,
+      "providers": {},
+      "error_types": {
+        "APIConnectionError": 45
+      }
+    }
+  },
+  "failed_calls": 45,
+  "runs_containing_failed_call": 15,
+  "mean_wall_time_ms": null,
+  "experiment_id": "chope-concordia-gpt4o-mini-20261013",
+  "framework": "Concordia",
+  "framework_version": "2.4.0",
+  "attempted_runs": 15,
+  "failed_runs": 15,
+  "cohort_convergence": [],
+  "resource_efficiency": {
+    "mean_total_tokens_per_completed_run": null,
+    "mean_simulation_tokens_per_round": null,
+    "cost_per_completed_run_usd": null,
+    "cost_per_resolved_run_usd": null,
+    "failed_run_known_cost_usd": 0,
+    "failed_run_cost_exact_complete": false
+  },
+  "boundary_resources": {
+    "simulation_tokens": 0,
+    "simulation_cost_usd": 0.0,
+    "post_first_boundary_tokens": 0,
+    "post_first_boundary_token_share": null,
+    "post_first_boundary_cost_usd": 0.0,
+    "post_first_boundary_cost_share": null,
+    "post_convergence_tokens": 0,
+    "post_convergence_token_share": null,
+    "post_convergence_cost_usd": 0.0,
+    "post_convergence_cost_share": null,
+    "exact_cost_complete": true
+  }
+}

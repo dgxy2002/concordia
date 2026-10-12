@@ -1,0 +1,70 @@
+{
+  "experiment_id": "chope-concordia-gpt4o-mini-20261013-rerun",
+  "framework": "Concordia",
+  "framework_version": "2.4.0",
+  "git_commit": "2da7ae3209a70541290d55822439676516201f77",
+  "started_at": "2026-10-12T16:16:33.879852+00:00",
+  "completed_at": "2026-10-12T16:35:34.028803+00:00",
+  "mode": "boundary",
+  "scenario_time": "2026-10-10T12:30:00+08:00",
+  "generation_model": "openai/gpt-4o-mini",
+  "evaluator_model": "openai/gpt-5-mini",
+  "embedding_model": "openai/text-embedding-3-small",
+  "requested_runs": 15,
+  "completed_runs": 15,
+  "rounds_per_run": 8,
+  "agent_turns_per_round": 4,
+  "maximum_agent_turn_slots": 32,
+  "agent_order": [
+    "Mr Lim",
+    "Rachel Pereira",
+    "Nur Aisyah",
+    "Arjun"
+  ],
+  "order_randomization": false,
+  "parallel_generation": false,
+  "early_stopping": false,
+  "fresh_agents_and_world_per_run": true,
+  "cross_run_memory": false,
+  "api_cache": false,
+  "memory_consolidation": false,
+  "semantic_memory_retrieval": false,
+  "action_quality_checks_or_regeneration": false,
+  "agent_max_completion_tokens": 4096,
+  "evaluator_calls_per_completed_run": 1,
+  "evaluator_max_completion_tokens": 6000,
+  "generation_temperature": "provider_default_unset",
+  "evaluator_temperature": 1.0,
+  "round_embeddings_per_run": 8,
+  "full_embeddings_per_run": 1,
+  "manual_audit_fraction": 0.2,
+  "thresholds": {
+    "lexical_mean_similarity": 0.7,
+    "lexical_individual_similarity": 0.8,
+    "lexical_agent_fraction": 0.5,
+    "semantic_adjacent_similarity": 0.9,
+    "semantic_lexical_floor": 0.15,
+    "drift_relevance_to_round_1": 0.75,
+    "near_repeat_similarity": 0.85
+  },
+  "persona_hashes": {
+    "Mr Lim": "bea6c7b60c25f08498dfd97ff41fd930c43d36a7dc8d4f6c92cbdc2e3e12ca82",
+    "Rachel Pereira": "f52f8da85b30dcc91f45ff3e8129bcb4c1a0474223926777d488a945ec51afab",
+    "Nur Aisyah": "2fefd451b0a6df37d227805a10d9a3d236584ca7cb8b41b001c5aa4ee4e9149d",
+    "Arjun": "7f160c4c8890427d8652bedec823865dcc15bbc3b45702372727d1f9b5888a71"
+  },
+  "framework_controls": {
+    "entity_prefab": "ChopeEntity",
+    "game_master_prefab": "ChopeGameMaster",
+    "engine": "concordia.environment.engines.sequential.Sequential",
+    "internal_memory_embedder": "local feature hash used only for storage; retrieval disabled"
+  },
+  "api_key_recorded": false,
+  "protocol_deviations": [],
+  "attempted_runs": 15,
+  "failed_runs": 0,
+  "actual_provider_mix": {
+    "Azure": 125,
+    "OpenAI": 505
+  }
+}

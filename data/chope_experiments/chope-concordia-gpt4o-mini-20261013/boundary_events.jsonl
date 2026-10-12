@@ -1,0 +1,60 @@
+{"run_id": "openai--gpt-4o-mini-001", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-001", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 3201.694, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-001", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2034.081, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-001", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2029.765, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-002", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-002", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2030.658, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-002", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2030.759, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-002", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2046.063, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-003", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-003", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2029.721, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-003", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2015.632, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-003", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2023.51, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-004", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-004", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2034.826, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-004", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2037.097, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-004", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2024.328, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-005", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-005", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2034.552, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-005", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2039.847, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-005", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2021.984, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-006", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-006", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2051.63, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-006", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2046.064, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-006", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2032.373, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-007", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-007", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2020.552, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-007", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2028.565, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-007", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2041.415, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-008", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-008", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2031.875, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-008", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2035.186, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-008", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2044.748, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-009", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-009", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2035.828, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-009", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2021.514, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-009", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2021.074, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-010", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-010", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2031.852, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-010", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2034.515, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-010", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2021.523, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-011", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-011", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2025.619, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-011", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2033.568, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-011", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2027.26, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-012", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-012", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2014.295, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-012", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2037.921, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-012", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2030.142, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-013", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-013", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2023.158, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-013", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2032.135, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-013", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2029.112, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-014", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-014", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2023.338, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-014", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2037.132, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-014", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2041.937, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-015", "event": "failed_run", "completed_turn_slots": 0, "error_type": "APIConnectionError"}
+{"run_id": "openai--gpt-4o-mini-015", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2021.981, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-015", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2034.151, "cost_usd": null}
+{"run_id": "openai--gpt-4o-mini-015", "event": "api_failed", "phase": "simulation", "round": 1, "model": "openai/gpt-4o-mini", "provider": null, "error_type": "APIConnectionError", "latency_ms": 2031.232, "cost_usd": null}

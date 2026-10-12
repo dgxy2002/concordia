@@ -1,0 +1,16 @@
+run_id,deterministic_resolution,deterministic_resolution_turn,deterministic_outcome,evaluator_resolution,resolution_source_disagreement,repetition_onset_round,topic_drift_onset_round,convergence_round,saturation_round,first_boundary_round,post_resolution_public_talk_count,forced_continuation_rounds
+openai--gpt-4o-mini-001,True,10,compromise,True,False,,4,,,4,14,5
+openai--gpt-4o-mini-002,False,,unresolved,True,True,,,,,,0,0
+openai--gpt-4o-mini-003,False,,unresolved,True,True,,,,,,0,0
+openai--gpt-4o-mini-004,True,9,compromise,False,True,4,,4,4,4,23,5
+openai--gpt-4o-mini-005,True,6,compromise,True,False,,3,,,3,13,6
+openai--gpt-4o-mini-006,False,,unresolved,True,True,,,,,,0,0
+openai--gpt-4o-mini-007,True,14,compromise,True,False,,5,,,5,14,4
+openai--gpt-4o-mini-008,True,10,compromise,False,True,3,,4,4,4,22,5
+openai--gpt-4o-mini-009,False,,unresolved,True,True,3,,,,,0,0
+openai--gpt-4o-mini-010,False,,unresolved,True,True,7,,,,,0,0
+openai--gpt-4o-mini-011,False,,unresolved,True,True,,,,,,0,0
+openai--gpt-4o-mini-012,False,,unresolved,True,True,,,,,,0,0
+openai--gpt-4o-mini-013,False,,unresolved,True,True,,,,,,0,0
+openai--gpt-4o-mini-014,False,,unresolved,True,True,7,,,,,0,0
+openai--gpt-4o-mini-015,False,,unresolved,False,False,3,,,,,0,0
